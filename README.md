@@ -4,4 +4,10 @@ Programas feitos em java, durante o curso de Análise e Desenvolvimento de Siste
 
 ---
 
-🚀Link dos programas funcionando: https://youtu.be/wYIqpqI00Hg
+🚀 Link dos programas funcionando: https://youtu.be/wYIqpqI00Hg
+
+---
+
+✔ Feito por:
+ - Eduarda Vitória
+ - Rafael de Oliveira
